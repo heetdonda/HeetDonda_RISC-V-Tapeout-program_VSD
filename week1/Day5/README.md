@@ -161,6 +161,7 @@ A `for generate` is a declarative construct used to create multiple hardware ins
    gtkwave tb_partial_case_assign.vcd
    ```
 2. output of gtk wave
+<img width="645" height="433" alt="image" src="https://github.com/user-attachments/assets/e86205f6-6b21-4a17-b9fa-94e448c25980" />
 
 
 3. open yosys
