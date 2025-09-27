@@ -294,7 +294,12 @@ A `for generate` is a declarative construct used to create multiple hardware ins
    iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_sc_hd.v demux_case_net.v tb_demux_net.v
    ./a.out
    gtkwave tb_demux_case.vcd
-   ```### Steps of demux_generate
+   ```
+
+ 7. output of gls
+    <img width="3290" height="2086" alt="image" src="https://github.com/user-attachments/assets/6699ebf8-e4ba-4530-bddf-d00c61066051" />
+
+   
 
 1. open gtk wave
    ```bash
